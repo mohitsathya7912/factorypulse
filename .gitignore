@@ -1,0 +1,48 @@
+# Environment variables & secrets
+.env
+.env.local
+
+# Python cache & compiled bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Node dependencies
+node_modules/
+
+# SQLite & local database files
+data/*.db
+data/*.sqlite
+
+# Model checkpoints & binary weights
+models/*.pt
+models/*.pth
+models/*.bin
+models/*.onnx
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+data/organizer/
+data/uploads/
+cache/
+
+data/organizer/
+data/uploads/
+cache/
+
+data/organizer/
+data/uploads/
+cache/
+
+.env
+__pycache__/
+*.pyc

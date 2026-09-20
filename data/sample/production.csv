@@ -1,0 +1,101 @@
+station,batch_id,cycle_time,capacity,wip,downtime_hours,units_in,units_out,rework_units,scrap_units
+Station 1 - Feed,B101,24.0,150,15,0.2,50,50,0,0
+Station 2 - Stamping,B101,25.7,140,13,0.35,50,50,0,0
+Station 3 - Thermal Curing,B101,36.0,100,89,0.85,51,51,1,0
+Station 4 - Coating,B101,27.7,130,14,0.25,50,50,0,0
+Station 5 - Final Quality,B101,22.5,160,23,0.15,50,50,0,0
+Station 1 - Feed,B102,24.0,150,25,0.2,50,50,0,0
+Station 2 - Stamping,B102,25.7,140,18,0.35,50,50,0,0
+Station 3 - Thermal Curing,B102,36.0,100,78,0.85,52,52,2,0
+Station 4 - Coating,B102,27.7,130,19,0.25,50,50,0,0
+Station 5 - Final Quality,B102,22.5,160,13,0.15,50,50,0,0
+Station 1 - Feed,B103,24.0,150,25,0.2,50,50,0,0
+Station 2 - Stamping,B103,25.7,140,17,0.35,50,50,0,0
+Station 3 - Thermal Curing,B103,36.0,100,75,0.85,53,53,3,0
+Station 4 - Coating,B103,27.7,130,27,0.25,50,50,0,0
+Station 5 - Final Quality,B103,22.5,160,19,0.15,50,50,0,0
+Station 1 - Feed,B104,24.0,150,18,0.2,50,50,0,0
+Station 2 - Stamping,B104,25.7,140,22,0.35,50,50,0,0
+Station 3 - Thermal Curing,B104,36.0,100,67,0.85,53,53,3,0
+Station 4 - Coating,B104,27.7,130,12,0.25,50,50,0,0
+Station 5 - Final Quality,B104,22.5,160,25,0.15,50,50,0,0
+Station 1 - Feed,B105,24.0,150,17,0.2,50,50,0,0
+Station 2 - Stamping,B105,25.7,140,19,0.35,50,50,0,0
+Station 3 - Thermal Curing,B105,36.0,100,86,0.85,50,50,0,0
+Station 4 - Coating,B105,27.7,130,16,0.25,50,50,0,0
+Station 5 - Final Quality,B105,22.5,160,22,0.15,50,50,0,0
+Station 1 - Feed,B106,24.0,150,23,0.2,50,50,0,0
+Station 2 - Stamping,B106,25.7,140,19,0.35,50,50,0,0
+Station 3 - Thermal Curing,B106,36.0,100,66,0.85,51,51,1,0
+Station 4 - Coating,B106,27.7,130,27,0.25,50,50,0,0
+Station 5 - Final Quality,B106,22.5,160,26,0.15,50,50,0,0
+Station 1 - Feed,B107,24.0,150,23,0.2,50,50,0,0
+Station 2 - Stamping,B107,25.7,140,26,0.35,50,50,0,0
+Station 3 - Thermal Curing,B107,36.0,100,81,0.85,52,52,2,0
+Station 4 - Coating,B107,27.7,130,12,0.25,50,50,0,0
+Station 5 - Final Quality,B107,22.5,160,26,0.15,50,50,0,0
+Station 1 - Feed,B108,24.0,150,25,0.2,50,50,0,0
+Station 2 - Stamping,B108,25.7,140,15,0.35,50,50,0,0
+Station 3 - Thermal Curing,B108,36.0,100,86,0.85,52,52,2,0
+Station 4 - Coating,B108,27.7,130,27,0.25,50,50,0,0
+Station 5 - Final Quality,B108,22.5,160,24,0.15,50,50,0,0
+Station 1 - Feed,B109,24.0,150,20,0.2,50,50,0,0
+Station 2 - Stamping,B109,25.7,140,12,0.35,50,50,0,0
+Station 3 - Thermal Curing,B109,36.0,100,92,0.85,52,52,2,0
+Station 4 - Coating,B109,27.7,130,12,0.25,50,50,0,0
+Station 5 - Final Quality,B109,22.5,160,24,0.15,50,50,0,0
+Station 1 - Feed,B110,24.0,150,24,0.2,50,50,0,0
+Station 2 - Stamping,B110,25.7,140,16,0.35,50,50,0,0
+Station 3 - Thermal Curing,B110,36.0,100,90,0.85,50,50,0,0
+Station 4 - Coating,B110,27.7,130,16,0.25,50,50,0,0
+Station 5 - Final Quality,B110,22.5,160,16,0.15,50,50,0,0
+Station 1 - Feed,B111,24.0,150,21,0.2,50,50,0,0
+Station 2 - Stamping,B111,25.7,140,17,0.35,50,50,0,0
+Station 3 - Thermal Curing,B111,36.0,100,88,0.85,51,51,1,0
+Station 4 - Coating,B111,27.7,130,14,0.25,50,50,0,0
+Station 5 - Final Quality,B111,22.5,160,20,0.15,50,50,0,0
+Station 1 - Feed,B112,24.0,150,24,0.2,52,52,2,0
+Station 2 - Stamping,B112,25.7,140,12,0.35,52,52,2,0
+Station 3 - Thermal Curing,B112,36.0,100,84,1.25,59,59,9,0
+Station 4 - Coating,B112,27.7,130,20,0.25,52,52,2,0
+Station 5 - Final Quality,B112,22.5,160,26,0.15,52,52,2,0
+Station 1 - Feed,B113,24.0,150,25,0.2,52,52,2,0
+Station 2 - Stamping,B113,25.7,140,19,0.35,52,52,2,0
+Station 3 - Thermal Curing,B113,36.0,100,74,1.25,59,59,9,0
+Station 4 - Coating,B113,27.7,130,20,0.25,52,52,2,0
+Station 5 - Final Quality,B113,22.5,160,12,0.15,52,52,2,0
+Station 1 - Feed,B114,24.0,150,20,0.2,52,52,2,0
+Station 2 - Stamping,B114,25.7,140,14,0.35,52,52,2,0
+Station 3 - Thermal Curing,B114,36.0,100,75,1.25,61,61,11,0
+Station 4 - Coating,B114,27.7,130,23,0.25,52,52,2,0
+Station 5 - Final Quality,B114,22.5,160,21,0.15,52,52,2,0
+Station 1 - Feed,B115,24.0,150,20,0.2,52,52,2,0
+Station 2 - Stamping,B115,25.7,140,12,0.35,52,52,2,0
+Station 3 - Thermal Curing,B115,36.0,100,81,1.25,58,58,8,0
+Station 4 - Coating,B115,27.7,130,20,0.25,52,52,2,0
+Station 5 - Final Quality,B115,22.5,160,22,0.15,52,52,2,0
+Station 1 - Feed,B116,24.0,150,25,0.2,51,51,1,0
+Station 2 - Stamping,B116,25.7,140,17,0.35,51,51,1,0
+Station 3 - Thermal Curing,B116,36.0,100,68,1.25,56,56,6,0
+Station 4 - Coating,B116,27.7,130,18,0.25,51,51,1,0
+Station 5 - Final Quality,B116,22.5,160,16,0.15,51,51,1,0
+Station 1 - Feed,B117,24.0,150,21,0.2,50,50,0,0
+Station 2 - Stamping,B117,25.7,140,25,0.35,50,50,0,0
+Station 3 - Thermal Curing,B117,36.0,100,71,0.85,51,51,1,0
+Station 4 - Coating,B117,27.7,130,19,0.25,50,50,0,0
+Station 5 - Final Quality,B117,22.5,160,19,0.15,50,50,0,0
+Station 1 - Feed,B118,24.0,150,12,0.2,50,50,0,0
+Station 2 - Stamping,B118,25.7,140,19,0.35,50,50,0,0
+Station 3 - Thermal Curing,B118,36.0,100,86,0.85,50,50,0,0
+Station 4 - Coating,B118,27.7,130,15,0.25,50,50,0,0
+Station 5 - Final Quality,B118,22.5,160,24,0.15,50,50,0,0
+Station 1 - Feed,B119,24.0,150,25,0.2,50,50,0,0
+Station 2 - Stamping,B119,25.7,140,23,0.35,50,50,0,0
+Station 3 - Thermal Curing,B119,36.0,100,88,0.85,52,52,2,0
+Station 4 - Coating,B119,27.7,130,14,0.25,50,50,0,0
+Station 5 - Final Quality,B119,22.5,160,24,0.15,50,50,0,0
+Station 1 - Feed,B120,24.0,150,15,0.2,50,50,0,0
+Station 2 - Stamping,B120,25.7,140,26,0.35,50,50,0,0
+Station 3 - Thermal Curing,B120,36.0,100,70,0.85,50,50,0,0
+Station 4 - Coating,B120,27.7,130,22,0.25,50,50,0,0
+Station 5 - Final Quality,B120,22.5,160,18,0.15,50,50,0,0

@@ -1,0 +1,15 @@
+{
+  "is_synthetic": true,
+  "data_mode": "Demo",
+  "batches_count": 20,
+  "total_units": 1000,
+  "defect_rate_pct": 9.6,
+  "primary_bottleneck": "Station 3 - Thermal Curing (100 UPH)",
+  "drifting_parameters": [
+    "temperature",
+    "speed",
+    "pressure",
+    "vibration"
+  ],
+  "notice": "DEMO / SYNTHETIC DATA \u2014 Generated for hackathon evaluation baseline."
+}

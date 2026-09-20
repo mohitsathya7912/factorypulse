@@ -1,0 +1,32 @@
+# ==============================================================================
+# FactoryPulse Production Dependencies (Pinned Versions)
+# NEURAX Hackathon 3.0 (Domain 2: AI in Industry and Automation)
+# ==============================================================================
+
+# Core Data Processing
+numpy==2.0.1
+pandas==2.2.2
+Pillow==10.4.0
+
+# Deep Learning & Computer Vision Feature Extraction
+torch==2.14.0+cpu
+torchvision==0.29.0+cpu
+
+# Tabular Machine Learning & Statistical Analysis
+scikit-learn==1.6.1
+scipy==1.15.2
+xgboost==3.4.1
+joblib==1.4.2
+
+# Model Explainability & Interpretability
+shap==0.52.0
+
+# Dashboard & Interactive Visualization
+streamlit==1.46.0
+plotly==5.24.1
+
+# Environment & Configuration Management
+python-dotenv==1.2.3
+
+# Testing & Quality Assurance
+pytest==9.1.1

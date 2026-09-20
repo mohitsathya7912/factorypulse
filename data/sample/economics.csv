@@ -1,0 +1,2 @@
+unit_price,material_cost,labor_cost,overhead_cost,scrap_cost,rework_cost,downtime_cost_per_hour
+85.0,32.0,45.0,30.0,42.0,18.5,150.0
